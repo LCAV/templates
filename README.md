@@ -4,6 +4,9 @@
 
 This repository contains useful templates for code published by the lab.
 
+* **reproduce/**: contains template files for reproducibility repositories. 
+* **package/**: (under construction) contains useful templates and instructions for creating packages. 
+
 ## Authors
 
 Created and maintained by members of [LCAV](lcav.epfl.ch).
