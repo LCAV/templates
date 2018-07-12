@@ -12,7 +12,7 @@ This repository contains all the code to reproduce the results of the paper
 
 * List of authors and institution. 
 
-* <img src="http://lcav.epfl.ch/files/content/sites/lcav/files/images/Home/LCAV_anim_200.gif">
+<img src="http://lcav.epfl.ch/files/content/sites/lcav/files/images/Home/LCAV_anim_200.gif">
 
 
 #### Contact
@@ -22,7 +22,6 @@ This repository contains all the code to reproduce the results of the paper
 ## About 
 
 * Instructions on how to recreate the figures in the paper. 
-
 
 ## Data (if applicable)
 
@@ -36,6 +35,8 @@ This repository contains all the code to reproduce the results of the paper
 - Link github submodules with specific version hash if you are reusing your code.  
 
 ## License
+
+* Add the LICENSE file to the root of your repository, to make github understand that there is one. *Don't forget to fill in the year and author names in that file and in the snippet below.* 
 
     Copyright (c) <YEAR>, <AUTHORS> 
 
