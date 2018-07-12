@@ -31,9 +31,6 @@ This repository contains all the code to reproduce the results of the paper
 
 * Instructions on how to install this package (including dependencies) 
 
-- Instructions on how to install this package
-- Link github submodules with specific version hash if you are reusing your code.  
-
 ## License
 
 * Add the LICENSE file to the root of your repository, to make github understand that there is one. *Don't forget to fill in the year and author names in that file and in the snippet below.* 
